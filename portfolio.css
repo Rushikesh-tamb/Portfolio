@@ -1,0 +1,29 @@
+body {
+  background-color: #000;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hero {
+  background-color: #000;
+  min-height: 90vh;
+  padding: 60px 0;
+}
+
+.hero h1 {
+  font-size: 40px;
+  color: #fff;
+}
+
+.hero p {
+  font-size: 20px;
+  color: #ccc;
+}
+
+.nav-link:hover,
+.navbar-brand:hover {
+  color: gray !important;
+}
+
+section h2 {
+  font-weight: bold;
+}
